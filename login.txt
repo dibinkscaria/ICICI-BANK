@@ -1,4 +1,7 @@
 user name
 password
 login button
-signup button
+signup box
+cance
+create button
+
